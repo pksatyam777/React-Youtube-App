@@ -2,7 +2,7 @@
 
 Find Output of the project Here 👉 https://pksatyam777.github.io/React-Youtube-App/ 🔥 </br>
 
-Note: This is a youtube api based project , so for privacy purposes api key is restricted to use only in github.com , if you want to use this project on your localhost:3000 then replace my api key with your own.</br>
+Note: This is a Youtube Api based project , so for Privacy Purposes Api key is restricted to use only in github.com , If you want to use this project in your localhost:3000 then replace my Api key with your own key.</br>
 
 Screenshot of the App below: </br>
 
